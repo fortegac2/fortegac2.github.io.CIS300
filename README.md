@@ -1,2 +1,2 @@
-# fortegac2.github.io
+# CIS300 Project
 This repository contains files for CIS300 Project Assignments.
